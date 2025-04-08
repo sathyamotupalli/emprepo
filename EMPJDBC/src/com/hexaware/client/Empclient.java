@@ -4,12 +4,10 @@ public class Empclient {
 	public static void main(String args[])
 	{
 		System.out.println("welcome");
+		viewresult();
 	}
-	public static void display() {
-		System.out.println("Display");
+	public static void viewresult() {
+		System.out.println("viewresult");
 	}
-		ViewResults();
-	public static void ViewResults() {
-		System.out.println("View Results");
-	}
+		
 }
